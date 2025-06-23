@@ -1,0 +1,16 @@
+{
+  "name": "deploying_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "PJ",
+  "license": "ISC",
+  "description": "a basic app to deploy",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
