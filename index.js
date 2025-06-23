@@ -4,7 +4,7 @@ console.log("chai aur code")
 const express = require('express');
 const app = express();
 
-const port = process.env.port
+const port = process.env.PORT
 const aboutMe = {
   name: "Adnan Hasan",
   age: 21,
